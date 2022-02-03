@@ -1,8 +1,8 @@
 {
-  "name": "hip-app",
+  "name": "simplicity-library-app",
   "version": "0.0.1-SNAPSHOT",
   "private": true,
-  "description": "Description for hipApp",
+  "description": "application project feb2021: library organization project with backend focus",
   "license": "UNLICENSED",
   "scripts": {
     "app:start": "./mvnw",
